@@ -1,0 +1,15 @@
+{
+    "autoload": {
+        "psr-4": {
+            "EclipseGc\\PHPAST\\": "src/"
+        }
+    },
+    "require": {
+        "eclipsegc/plugins": "^0.1.3",
+        "eclipsegc/plugins_annotation": "^0.1.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~5.4",
+        "codeclimate/php-test-reporter": "dev-master"
+    }
+}
